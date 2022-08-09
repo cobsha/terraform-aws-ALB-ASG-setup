@@ -1,12 +1,12 @@
 # AWS ALB-ASG Setup using Terraform
 
-![Untitled Diagram](https://user-images.githubusercontent.com/71638921/183583769-c7332ec0-12f2-4277-a9cd-e0546fa2af53.jpg)
-
 
 This guide walk you through on how to set up Application LoadBalancer with Auto Scaling Group using Terraform.
 
 
 Terraform is an open source Infrastructure as Code tool used to provision Infrastructure and resources. We can automate major cloud platforms like AWS, Azure or GCP using terraform.
+
+![Untitled Diagram](https://user-images.githubusercontent.com/71638921/183583769-c7332ec0-12f2-4277-a9cd-e0546fa2af53.jpg)
 
 ### What is Application Load Balancer?
 
